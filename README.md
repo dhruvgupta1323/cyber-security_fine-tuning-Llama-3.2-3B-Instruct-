@@ -17,7 +17,7 @@
 ## 🎥 Demo
 
 <p align="center">
-  <img src="assets/demo.gif" alt="CyberShield demo" width="850">
+  <img src="demo.gif" alt="CyberShield demo" width="850">
 </p>
 
 > **Note:** Add your recorded demo GIF as `assets/demo.gif`. GitHub renders repository GIFs directly in a README using standard Markdown/HTML image syntax.
