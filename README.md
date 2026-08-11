@@ -12,7 +12,7 @@ The system doesn't just answer cybersecurity questions — it also understands w
 ## 🎥 Demo
 
 <p align="center">
-  <img src="demo.gif" alt="CyberShield Demo" width="900">
+  <img src="cyb.gif" alt="CyberShield Demo" width="900">
 </p>
 
 
